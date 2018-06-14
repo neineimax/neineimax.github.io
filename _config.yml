@@ -1,11 +1,12 @@
 # Basic
-title: 陈雅凤
+title: 蔡徐坤
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
 avatarTitle: leopardpan
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: iOS / 
+歌手 NINEPERCENT 队长
 url: "http://baixin.io"
 
 # Comment
@@ -59,7 +60,7 @@ blog_button:
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+    - {title: 关于蔡徐坤, description: about, url: '/about'}      
     
 
 # Pagination

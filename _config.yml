@@ -53,12 +53,12 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 文章
+    title: 博客主页
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 文章1, description: archive1, url: '/archive1'}
-     - {title: 文章2, description: archive2, url: '/archive2'} 
+    - {title: 早年经历, description: zaonianjingli, url: '/zaonianjingli'}
+     - {title: 演艺经历, description: yanyijingli, url: '/yanyijingli'} 
     - {title: 标签, description: tags, url: '/tags'}      
     - {title: 关于蔡徐坤, description: about, url: '/about'}      
     

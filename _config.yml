@@ -61,7 +61,7 @@ nav:
      - {title: 演艺经历, description: yanyijingli, url: '/yanyijingli'} 
     - {title: 标签, description: tags, url: '/tags'}      
     - {title: 关于蔡徐坤, description: about, url: '/about'}      
-    
+     - {title: 留言, description: liuyan, url: '/liuyan'}
 
 # Pagination
 gems: [jekyll-paginate,jekyll-sitemap]
